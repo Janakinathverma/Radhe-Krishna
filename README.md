@@ -69,4 +69,4 @@ This code is open for personal and educational use. Feel free to modify and dist
 
 ### Contact
 
-For any questions or feedback, please contact [your_email@example.com].
+For any questions or feedback, please contact janakinathv@gmail.com.
